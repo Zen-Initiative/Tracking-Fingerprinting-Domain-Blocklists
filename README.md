@@ -14,7 +14,7 @@ Based on DuckDuckGo Tracker Radar
 [coming soon]  
   
 **Trackers_and_social_media_blocklist.txt**:  
-[coming soon]  
+[https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/main/Trackers_and_social_media_blocklist.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/main/Trackers_and_social_media_blocklist.txt) 
   
 See below for differences.  
   
