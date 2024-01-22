@@ -24,8 +24,10 @@ These domain blocklists are generated using DuckDuckGo Tracker Radar data (categ
 [https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv](https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv)  
 
 Two versions available:  
-- ``` Trackers_domain_blocklist.txt``` blocks common domains hosting tracking/fingerprinting/advertising scripts etc.
-- ``` Trackers_and_social_media_blocklist.txt``` additionally blocks social media domains (that host both regular content and tracking scripts etc.) and may also break social media share/comment functions on third-party websites.
+- ```Trackers_domain_blocklist.txt``` blocks common domains hosting tracking/fingerprinting/advertising scripts etc.
+- ```Trackers_and_social_media_blocklist.txt``` additionally blocks a few social media domains (that host tracking scripts etc) and may also break some social media share/comment functions on third-party websites; however, it doesn't block social media domains that are also used for federated login, CDN, and/or embedded content.
+
+Currently, the differences between the two lists are very small. The first list ```Trackers_domain_blocklist.txt``` is recommended for most users.  
   
 ---
   
