@@ -72,7 +72,7 @@ The following categories are included (differences between the two blocklists ar
   
 ---
   
-#### Using 📛 Domain Blocklist together with 🛡️ JS Blocklists
+#### Using 📛 **Domain Blocklists** together with 🛡️ **JS Blocklists**
 - The domain lists block whole domains (for DNS blocking, Pi-Hole blocklists, hosts files, etc.)
 - The [JS Blocklists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist) only blocks specific JS files (for uBO/ABP/AdGuard etc.)
 
