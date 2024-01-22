@@ -1,4 +1,4 @@
-# 🅱️ Tracking (Fingerprinting) Domain Blocklists
+# 📛 Tracking (Fingerprinting) Domain Blocklists
 Based on DuckDuckGo Tracker Radar
   
 ---
@@ -9,7 +9,7 @@ Based on DuckDuckGo Tracker Radar
   
 ---
   
-#### Direct download links
+#### ⬇️ Direct links
 **Trackers_domain_blocklist.txt**:  
 [coming soon]  
   
@@ -33,9 +33,9 @@ Two versions available:
 Domains are included based on DDG Tracker Radar categories:  
 [https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md](https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md)  
   
-The following categories are included in the blocklists:  
+The following categories are included in the blocklists (differences between the two lists are labeled with❗):  
   
-|**Category**|**Trackers Blocklist**|**Trackers & Social Media Blocklist**|
+|**Category**|**Trackers Domain Blocklist**|**Trackers & Social Media Blocklist**|
 |---|---|---|
 |**Ad Motivated Tracking**|:heavy_check_mark:|:heavy_check_mark:|
 |**Advertising**|:heavy_check_mark:|:heavy_check_mark:|
@@ -45,8 +45,8 @@ The following categories are included in the blocklists:
 |**Federated Login**|:x:|:x:|
 |**SSO**|:x:|:x:|
 |**Third-Party Analytics Marketing**|:heavy_check_mark:|:heavy_check_mark:|
-|**Social - Comment**|:x:|:heavy_check_mark:|
-|**Social - Share**|:x:|:heavy_check_mark:|
+|**Social - Comment** (❗)|:x:|:heavy_check_mark:|
+|**Social - Share** (❗)|:x:|:heavy_check_mark:|
 |**Online Payment**|:x:|:x:|
 |**Action Pixels**|:heavy_check_mark:|:heavy_check_mark:|
 |**Unknown High Risk Behavior**|:heavy_check_mark:|:heavy_check_mark:|
@@ -55,7 +55,7 @@ The following categories are included in the blocklists:
 |**Badge**|:heavy_check_mark:|:heavy_check_mark:|
 |**Embedded Content**|:x:|:x:|
 |**Session Replay**|:heavy_check_mark:|:heavy_check_mark:|
-|**Social Network**|:x:|:heavy_check_mark:|
+|**Social Network** (❗)|:x:|:heavy_check_mark:|
 |**Non-Tracking**|:x:|:x:|
 |**Malware**|:heavy_check_mark:|:heavy_check_mark:|
 |**Fraud Prevention**|:heavy_check_mark:|:heavy_check_mark:|
@@ -72,7 +72,7 @@ The following categories are included in the blocklists:
   
 ---
   
-#### Using 🅱️ Domain Blocklist together with 🛡️ JS Blocklists
+#### Using 📛 Domain Blocklist together with 🛡️ JS Blocklists
 - The domain blocklists on this page will block whole domains (more suitable for DNS blocking, Pi-Hole blocklists, hosts files, etc.)
 - The [JS Blocklists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist) only blocks specific JS files (more suitable for uBO/ABP/AdGuard etc.)
 
@@ -82,7 +82,7 @@ It is recommended to use both lists together for more protection, as sometimes i
   
 ## License
   
-Creative Commons Zero v1.0 Universal ([https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE)  
+Creative Commons Zero v1.0 Universal ([https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE))  
 
   ---
   
