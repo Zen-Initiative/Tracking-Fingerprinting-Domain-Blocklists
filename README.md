@@ -33,7 +33,7 @@ Two versions available:
 Domains are included based on DDG Tracker Radar categories:  
 [https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md](https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md)  
   
-The following categories are included in the blocklists (differences between the two lists are labeled with❗):  
+The following categories are included (differences between the two blocklists are labeled with❗):  
   
 |**Category**|**Trackers Domain Blocklist**|**Trackers & Social Media Blocklist**|
 |---|---|---|
@@ -73,16 +73,19 @@ The following categories are included in the blocklists (differences between the
 ---
   
 #### Using 📛 Domain Blocklist together with 🛡️ JS Blocklists
-- The domain blocklists on this page will block whole domains (more suitable for DNS blocking, Pi-Hole blocklists, hosts files, etc.)
-- The [JS Blocklists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist) only blocks specific JS files (more suitable for uBO/ABP/AdGuard etc.)
+- The domain lists block whole domains (for DNS blocking, Pi-Hole blocklists, hosts files, etc.)
+- The [JS Blocklists](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist) only blocks specific JS files (for uBO/ABP/AdGuard etc.)
 
-It is recommended to use both lists together for more protection, as sometimes it is not possible to block the whole domains of popular websites (the entire websites will be blocked including all the content and functions), in which case the JS blocklists will kick in to block specific tracking/fingerprinting JS files hosted on these popular websites.  
+Use both lists together for more protection.  
+  
+Sometimes it is not possible to block the whole domains of popular websites (the entire websites will be blocked including all the content and functions), in which case the JS blocklists will kick in to block specific tracking/fingerprinting JS files hosted on these popular websites.  
   
 ---
   
 ## License
   
-Creative Commons Zero v1.0 Universal ([https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE))  
-
+Creative Commons Zero v1.0 Universal:  
+[https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE)  
+  
   ---
   
