@@ -5,7 +5,7 @@ Based on DuckDuckGo Tracker Radar
   
 - Domain blocklists based on DDG Tracker Radar data.
 - Blocks common domains hosting tracking/fingerprinting/advertising JS etc.
-- Can be used adjacent to [Tracking (Fingerprinting) JS Blocklist](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist) that blocks specific scripts but not whole domains (more detail below)
+- Can be used adjacent to [Tracking (Fingerprinting) JS Blocklist](https://github.com/Zen-Initiative/Tracking-Fingerprinting-JS-Blocklist) that blocks JS files but not whole domains (more detail below)
   
 ---
   
