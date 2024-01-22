@@ -84,8 +84,8 @@ Sometimes it is not possible to block the whole domains of popular websites (the
   
 ## License
   
-Creative Commons Zero v1.0 Universal:  
-[https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE)  
+- This project: [Creative Commons Zero v1.0 Universal](https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE)
+- DuckDuckGo Tracker Radar data: [CC BY-NC-SA 4](https://creativecommons.org/licenses/by-nc-sa/4.0/). This repository is not endorsed by DuckDuckGo.
   
   ---
   
