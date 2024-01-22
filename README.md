@@ -25,7 +25,7 @@ These domain blocklists are generated using DuckDuckGo Tracker Radar data (categ
 
 Two versions available:  
 - ``` Trackers_domain_blocklist.txt``` blocks common domains hosting tracking/fingerprinting/advertising scripts etc.
-- ``` Trackers_and_social_media_blocklist.txt``` additionally blocks social media domains (that host both regular content and tracking scripts etc.) and may also break social media share/comment functions on third-party websites
+- ``` Trackers_and_social_media_blocklist.txt``` additionally blocks social media domains (that host both regular content and tracking scripts etc.) and may also break social media share/comment functions on third-party websites.
   
 ---
   
@@ -62,14 +62,13 @@ The following categories are included in the blocklists:
 |**Consent Management Platform**|:heavy_check_mark:|:heavy_check_mark:|
 |**Tag Manager**|:heavy_check_mark:|:heavy_check_mark:|
 |**Support Chat Widget**|:x:|:x:|
-
-
+  
   
 ---
   
 #### 🔓 Whitelisting & potential false positives
 - Currently no whitelist is applied when generating the blocklists.
-- You can create local exceptions to handle any false positives 
+- Create local exceptions if needed to handle any false positives 
   
 ---
   
