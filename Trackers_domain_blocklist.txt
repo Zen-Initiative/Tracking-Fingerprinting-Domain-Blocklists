@@ -4,7 +4,7 @@
 ### Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists
 ### License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE
 
-### DDG Tracker Radar release: 2024.01.18 (csv file date: Dec 27, 2023)
+### DDG Tracker Radar release: Jun 26, 2024
 ### Source: https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv
 ### License: https://github.com/duckduckgo/tracker-radar/blob/main/LICENSE
 
