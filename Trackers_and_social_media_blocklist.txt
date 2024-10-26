@@ -1,6 +1,6 @@
 ### Tracking (Fingerprinting) Domain Blocklists [based on DuckDuckGo Tracker Radar]
 ### Trackers & Social Media Blocklist
-### Last update: 22 Jan 2024
+### Last update: 30 Jun 2024
 ### Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists
 ### License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE
 
