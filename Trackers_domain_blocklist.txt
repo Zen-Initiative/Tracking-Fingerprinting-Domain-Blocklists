@@ -1,15 +1,18 @@
 ### Tracking (Fingerprinting) Domain Blocklists [based on DuckDuckGo Tracker Radar]
+
 ### Trackers Domain Blocklist
-### Last update: 30 Jun 2024
+### Last update: 23 Nov 2024
 ### Homepage: https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists
 ### License: https://github.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/blob/main/LICENSE
 
-### DDG Tracker Radar release: Jun 26, 2024
+### DDG Tracker Radar: categorized trackers (Nov 15, 2024)
 ### Source: https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv
 ### License: https://github.com/duckduckgo/tracker-radar/blob/main/LICENSE
 
 ### Included categories: Ad Motivated Tracking, Advertising, Ad Fraud, Analytics, Audience Measurement, Third-Party Analytics Marketing, Action Pixels, Unknown High Risk Behavior, Obscure Ownership, Badge, Session Replay, Malware, Fraud Prevention, Consent Management Platform, Tag Manager
+
 ### Excluded categories: Federated Login, SSO, Online Payment, CDN, Embedded Content, Non-Tracking, Support Chat Widget, Social - Comment, Social - Share, Social Network
+
 
 1dmp.io
 1rx.io
@@ -99,6 +102,7 @@ btstatic.com
 buysellads.com
 c3tag.com
 casalemedia.com
+cdn-cookieyes.com
 cdnwidget.com
 chartbeat.com
 chartbeat.net
