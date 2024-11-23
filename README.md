@@ -16,14 +16,7 @@ Based on DuckDuckGo Tracker Radar
 **Trackers_and_social_media_blocklist.txt**:  
 [https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/main/Trackers_and_social_media_blocklist.txt](https://raw.githubusercontent.com/Zen-Initiative/Tracking-Fingerprinting-Domain-Blocklists/main/Trackers_and_social_media_blocklist.txt) 
   
-See below for differences.  
-  
----
-  
-These domain blocklists are generated using DuckDuckGo Tracker Radar data (categorized trackers):   
-[https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv](https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv)  
-
-Two versions available:  
+Differences:  
 - ```Trackers_domain_blocklist.txt``` blocks common domains hosting tracking/fingerprinting/advertising scripts etc.
 - ```Trackers_and_social_media_blocklist.txt``` additionally blocks a few social media domains and may also break social media share/comment functions on some third-party websites; however, it doesn't block social media domains that are also used for federated login, CDN, and/or embedded content.
 
@@ -34,7 +27,10 @@ The first list (trackers only) is recommended for most users.
 ---
   
 #### 🔐 Domain Inclusion/Exclusion
-Domains are included based on DDG Tracker Radar categories:  
+These domain blocklists are generated using DuckDuckGo Tracker Radar data (categorized trackers):   
+[https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv](https://github.com/duckduckgo/tracker-radar/blob/main/build-data/static/categorized_trackers.csv)  
+
+Domains are selected based on DDG Tracker Radar categories:  
 [https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md](https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md)  
   
 The following categories are included (differences between the two blocklists are labeled with❗):  
